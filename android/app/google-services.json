@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "872404748444",
+    "firebase_url": "https://topkarir-indonesia.firebaseio.com",
+    "project_id": "topkarir-indonesia"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872404748444:android:181c4e65c5449f18",
+        "android_client_info": {
+          "package_name": "com.topkarir.topkarir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872404748444-5b5dresvq2hdjpnhl2q5k18vc42tgu20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.topkarir.topkarir",
+            "certificate_hash": "160e2c952401cccd247c70d167da8e3d236967ab"
+          }
+        },
+        {
+          "client_id": "872404748444-ntdq8lv3o1lpkba9rn34pponmvp3rnve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkboQCf03smgBkK8ljjLi2hN-IvhuezJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872404748444-ntdq8lv3o1lpkba9rn34pponmvp3rnve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
